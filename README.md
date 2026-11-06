@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preethika-10&show_icons=true&theme=tokyonight" alt="Preethika's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethika-10&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 
 
 <!--
